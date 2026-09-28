@@ -117,9 +117,11 @@ The primary objective of this Active Learning Activity (ALA-1) is to design, dev
 
 ## 5. RESULTS & DEMONSTRATION
 
-### Live Deployment URL:
-- **Public URL:** `https://________________________.onrender.com`
-- **Health Check URL:** `https://________________________.onrender.com/health`
+### Live Deployment Details:
+- **Repository URL:** [https://github.com/DarkArceusZ/CC-ALA-1](https://github.com/DarkArceusZ/CC-ALA-1)
+- **Public Application URL:** [https://cc-ala-1.onrender.com/](https://cc-ala-1.onrender.com/)
+- **Health Check & Telemetry URL:** [https://cc-ala-1.onrender.com/health](https://cc-ala-1.onrender.com/health)
+- **Live Database:** MongoDB Atlas M0 Cluster (`Cluster0` in `ap-south-1`)
 
 ---
 
